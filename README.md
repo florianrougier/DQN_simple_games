@@ -6,7 +6,7 @@ Solving simple openAi gym games using reinforcement learning and neural networks
 ### Mountain Car
 
 The goal of this simple game is to climb a 'mountain'.
-Action space is really basic since the agent choose between 3 actions:
+Action space is really basic since the agent chooses between 3 actions:
 - Go left
 - Go Right
 - Do Nothing
